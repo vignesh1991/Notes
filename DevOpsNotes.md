@@ -54,7 +54,6 @@
 - Document on-call procedures.
 - Document escalation procedures for third-party dependencies.
 - Use configuration management.
-- Get an Azure support plan and understand the process.
 - Follow least-privilege principles when granting access to resources.
 - Use role-based access control.
 - Use a bug tracking system to track issues.
